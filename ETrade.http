@@ -1,0 +1,6 @@
+@ETrade_HostAddress = http://localhost:5204
+
+GET {{ETrade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
