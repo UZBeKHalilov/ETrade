@@ -1,0 +1,100 @@
+2025-03-12 06:57:02.567 +05:00 [INF] User profile is available. Using 'C:\Users\Abdulloh\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-03-12 06:57:03.058 +05:00 [INF] Now listening on: https://localhost:7242
+2025-03-12 06:57:03.062 +05:00 [INF] Now listening on: http://localhost:5204
+2025-03-12 06:57:03.154 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-12 06:57:03.158 +05:00 [INF] Hosting environment: Development
+2025-03-12 06:57:03.162 +05:00 [INF] Content root path: C:\Users\Abdulloh\Desktop\GitHub\ETrade
+2025-03-12 06:57:11.917 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_vs/browserLink - null null
+2025-03-12 06:57:11.917 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 06:57:11.991 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 79.5914ms
+2025-03-12 06:57:19.138 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7228.0162ms
+2025-03-12 06:57:19.178 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/favicon.ico - null null
+2025-03-12 06:57:19.581 +05:00 [INF] HTTP GET /favicon.ico responded 404 in 313.4317 ms
+2025-03-12 06:57:19.587 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/favicon.ico - 404 0 null 409.7533ms
+2025-03-12 06:57:19.594 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242/favicon.ico, Response status code: 404
+2025-03-12 06:57:21.377 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/index.html - null null
+2025-03-12 06:57:21.756 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/index.html - 200 null text/html;charset=utf-8 378.8554ms
+2025-03-12 06:57:21.885 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 06:57:21.891 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/index.js - null null
+2025-03-12 06:57:21.924 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_vs/browserLink - null null
+2025-03-12 06:57:22.363 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 478.8664ms
+2025-03-12 06:57:22.372 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/index.js - 200 null application/javascript;charset=utf-8 481.218ms
+2025-03-12 06:57:22.391 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_vs/browserLink - 200 null text/javascript; charset=UTF-8 466.9284ms
+2025-03-12 06:57:22.669 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - null null
+2025-03-12 06:57:22.723 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 404 in 2.7910 ms
+2025-03-12 06:57:22.729 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - 404 0 null 59.894ms
+2025-03-12 06:57:22.742 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242/swagger/v1/swagger.json, Response status code: 404
+2025-03-12 06:57:32.435 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242//swagger/v1/swagger.json - null null
+2025-03-12 06:57:32.445 +05:00 [INF] HTTP GET //swagger/v1/swagger.json responded 404 in 2.3530 ms
+2025-03-12 06:57:32.449 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242//swagger/v1/swagger.json - 404 0 null 14.1846ms
+2025-03-12 06:57:32.453 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242//swagger/v1/swagger.json, Response status code: 404
+2025-03-12 06:57:37.869 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - null null
+2025-03-12 06:57:37.878 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 404 in 0.3894 ms
+2025-03-12 06:57:37.883 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - 404 0 null 14.8284ms
+2025-03-12 06:57:37.892 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242/swagger/v1/swagger.json, Response status code: 404
+2025-03-12 07:00:11.850 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - null null
+2025-03-12 07:00:18.233 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/ - null null
+2025-03-12 07:00:44.656 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 404 in 0.3337 ms
+2025-03-12 07:00:44.657 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/ - 301 0 null 26423.9299ms
+2025-03-12 07:00:44.665 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/index.html - null null
+2025-03-12 07:00:44.666 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - 499 null null 32816.8084ms
+2025-03-12 07:00:44.680 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/index.html - 200 null text/html;charset=utf-8 14.8595ms
+2025-03-12 07:00:44.684 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242/swagger/v1/swagger.json, Response status code: 499
+2025-03-12 07:00:44.719 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 07:00:44.719 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/index.js - null null
+2025-03-12 07:00:44.730 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 10.8796ms
+2025-03-12 07:00:44.753 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_vs/browserLink - null null
+2025-03-12 07:00:44.756 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/index.js - 200 null application/javascript;charset=utf-8 36.5418ms
+2025-03-12 07:00:44.773 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.6552ms
+2025-03-12 07:00:44.858 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - null null
+2025-03-12 07:00:44.864 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 404 in 0.2987 ms
+2025-03-12 07:00:44.867 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - 404 0 null 9.371ms
+2025-03-12 07:00:44.877 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242/swagger/v1/swagger.json, Response status code: 404
+2025-03-12 07:00:48.441 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/ - null null
+2025-03-12 07:00:48.450 +05:00 [INF] HTTP GET / responded 307 in 1.7862 ms
+2025-03-12 07:00:48.456 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/ - 307 0 null 15.6042ms
+2025-03-12 07:00:48.552 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 07:00:48.552 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_vs/browserLink - null null
+2025-03-12 07:00:48.557 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 4.3791ms
+2025-03-12 07:00:48.569 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_vs/browserLink - 200 null text/javascript; charset=UTF-8 16.2105ms
+2025-03-12 07:00:52.565 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/ - null null
+2025-03-12 07:00:52.570 +05:00 [INF] HTTP GET / responded 307 in 0.0830 ms
+2025-03-12 07:00:52.573 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/ - 307 0 null 8.3887ms
+2025-03-12 07:00:52.597 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_vs/browserLink - null null
+2025-03-12 07:00:52.606 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 07:00:52.607 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.1865ms
+2025-03-12 07:00:52.611 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 5.3239ms
+2025-03-12 07:00:57.081 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/index.html - null null
+2025-03-12 07:00:57.087 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/index.html - 200 null text/html;charset=utf-8 5.8999ms
+2025-03-12 07:00:57.128 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/swagger-ui.css - null null
+2025-03-12 07:00:57.146 +05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-03-12 07:00:57.147 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/index.css - null null
+2025-03-12 07:00:57.147 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/index.js - null null
+2025-03-12 07:00:57.165 +05:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-03-12 07:00:57.147 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/swagger-ui-bundle.js - null null
+2025-03-12 07:00:57.149 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/swagger-ui.css - 200 154948 text/css 21.6288ms
+2025-03-12 07:00:57.151 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 07:00:57.157 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/_vs/browserLink - null null
+2025-03-12 07:00:57.174 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/index.js - 200 null application/javascript;charset=utf-8 26.2897ms
+2025-03-12 07:00:57.176 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/index.css - 200 202 text/css 29.0085ms
+2025-03-12 07:00:57.202 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.7063ms
+2025-03-12 07:00:57.187 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-12 07:00:57.191 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 41.0704ms
+2025-03-12 07:00:57.185 +05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-03-12 07:00:57.222 +05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-03-12 07:00:57.232 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/swagger-ui-bundle.js - 200 1466324 text/javascript 85.4158ms
+2025-03-12 07:00:57.234 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 47.4915ms
+2025-03-12 07:00:57.463 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/v1/swagger.json - null null
+2025-03-12 07:00:57.468 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 307 in 0.0256 ms
+2025-03-12 07:00:57.470 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/v1/swagger.json - 307 0 null 6.6886ms
+2025-03-12 07:00:57.499 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5204/swagger/favicon-32x32.png - null null
+2025-03-12 07:00:57.501 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - null null
+2025-03-12 07:00:57.504 +05:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-03-12 07:00:57.511 +05:00 [INF] CORS policy execution successful.
+2025-03-12 07:00:57.512 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5204/swagger/favicon-32x32.png - 200 628 image/png 12.9282ms
+2025-03-12 07:00:57.515 +05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 404 in 0.3464 ms
+2025-03-12 07:00:57.525 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/swagger/v1/swagger.json - 404 0 null 24.2064ms
+2025-03-12 07:00:57.530 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7242/swagger/v1/swagger.json, Response status code: 404
+2025-03-12 07:01:00.646 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-12 07:01:00.653 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7242/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript; charset=utf-8 7.3494ms
+2025-03-12 07:01:08.740 +05:00 [INF] Application is shutting down...
